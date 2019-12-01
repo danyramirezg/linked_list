@@ -1,5 +1,7 @@
 #include "gtest/gtest.h"
-#include "library.h"
+extern "C" {
+	#include "library.h"
+}
 
 TEST(HelloTest, GetGreet)
 {
