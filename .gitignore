@@ -1,0 +1,7 @@
+bazel-bin
+bazel-genfiles
+bazel-out
+bazel-playground_basel
+bazel-testlogs
+.clwb/
+bazel-playground_bazel
